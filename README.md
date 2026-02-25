@@ -1,6 +1,6 @@
 # Proposed COSMO-MT model
 
-The proposed COSMO-MT model is a new deep learning-based multi-task model to perform two tasks - Sentiment Classifiction (SC) and Emotion Detection (ED). It consists of input, embedding, shared and task-specific, dense, and output layers. Each layer is responsible to perform a specific function that supports both SC and ED. In addtion to that four groups of hand-crafted shallow which consist of 15 auxiliary features making the model well-informed. The proposed model is evaluated over two benchmark datasets and it performs significantly better than the comparable methods.
+The proposed COSMO-MT model is a new deep learning-based multi-task model to perform Sentiment Classifiction (SC) and Emotion Detection (ED) tasks. It consists of input, embedding, shared and task-specific, dense, and output layers. Each layer is responsible to perform a specific function that supports both SC and ED. In addtion to that four groups of hand-crafted shallow which consist of 15 auxiliary features making the model well-informed. The proposed model is evaluated over two benchmark datasets and it performs significantly better than the comparable methods.
 
 # Pre-requisite:
 1. Keras 2.2.4
